@@ -1,7 +1,9 @@
 # purpose
 This research aims to develop a rapid and efficient methodology for latent fingerprint recognition, addressing the challenge of high processing times in current approaches. The study explores the potential of one-shot and few-shot learning techniques in achieving accurate and computationally efficient latent fingerprint recognition.
+
 #Data
 The data is taken from the IIIT-D latent fingerprint dataset. The dataset contains 850 images of 3 groups. These 3 groups are IIITD Latent Mated 500ppi, IIITD Latent Mated 1000ppi, and IIITDLatentDatabase. The proposed solution is mainly on IIITD Latent Mated 1000ppi containing 254 images.
+
 #Architecture
 
 #Results 
