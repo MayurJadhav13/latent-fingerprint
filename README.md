@@ -3,6 +3,8 @@ This research aims to develop a rapid and efficient methodology for latent finge
 
 #Data
 The data is taken from the IIIT-D latent fingerprint dataset. The dataset contains 850 images of 3 groups. These 3 groups are IIITD Latent Mated 500ppi, IIITD Latent Mated 1000ppi, and IIITDLatentDatabase. The proposed solution is mainly on IIITD Latent Mated 1000ppi containing 254 images.
+
+
 ![335602004-f4dd0044-af3c-45ef-9eb1-aec2326078bd](https://github.com/MayurJadhav13/latent-fingerprint/assets/92316540/4cd939bf-54e6-4f91-b30b-24d4600bd12a)
 
 
