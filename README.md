@@ -22,3 +22,6 @@ The data is taken from the IIIT-D latent fingerprint dataset. The dataset contai
 
 # Results 
 In the few-shot learning of the prototypical network using the pre-trained DenseNet121 model, the research achieved a remarkable test accuracy of 91.66%. Additionally, both the F1 score and precision metrics are 93.32% & 93.93%, indicating the high performance of the proposed methodology in latent fingerprint recognition.
+
+![335604909-4859b6b3-6792-4570-924a-7e232491dc11](https://github.com/MayurJadhav13/latent-fingerprint/assets/92316540/68c4e891-9e7f-4741-8e9b-3c14f1fc6a9f)
+![335604771-df87bc27-15e3-4ee1-bdb8-5bfc219db8dd](https://github.com/MayurJadhav13/latent-fingerprint/assets/92316540/2c9f9b5f-b747-4ecd-a6f4-9329f1cfe835)
